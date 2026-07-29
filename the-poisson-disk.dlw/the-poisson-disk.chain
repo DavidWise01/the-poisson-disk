@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1942
+slug  : the-poisson-disk
+seal  : fb7bf349043d42014d314aa56b150b377680647d4f6c7bc3ce2982542fa63d7f
+prev  : 835abae4dce6bd1410c25c8d9a4bf8473211787e0a24dbdcdf9a1f77726cc351
+link  : 701a10d6685528322c1a86429333bf38dd7bc0c52a1402c9e64e1a03ed090266
+head  : 701a10d6685528322c1a86429333bf38dd7bc0c52a1402c9e64e1a03ed090266
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
